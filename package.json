@@ -1,0 +1,20 @@
+{
+  "name": "proxyserver",
+  "version": "1.0.0",
+  "description": "a sample proxyserver project for CoderSchool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lunardrik/cd-proxyserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lunardrik/cd-proxyserver/issues"
+  },
+  "homepage": "https://github.com/lunardrik/cd-proxyserver#readme"
+}
