@@ -61,7 +61,7 @@ hello self
 
 ### Proxy Server:
 
-Port 8081 will proxy to the echo server on port 8000.
+Port 8081 will proxy to the echo server on port 8080.
 
 ```bash
 curl -v http://127.0.0.1:8081/asdf -d "hello proxy"
