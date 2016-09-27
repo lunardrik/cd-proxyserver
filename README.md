@@ -100,7 +100,7 @@ The host of the destination server. Defaults to `127.0.0.1`.
 
 ##### `--port`
 
-The port of the destination server. Defaults to `80` or `8080` when a host is not specified.
+The port of the destination server. Defaults to `8080` when a host is not specified.
 
 ##### `--url`
 
